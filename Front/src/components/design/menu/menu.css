@@ -1,0 +1,36 @@
+
+#contentlogo{
+    width: 100px;
+}
+#popups {
+    background-color: rgb(109, 62, 84);
+    padding: 50px;
+    border-radius: 10px;
+}
+#ajoutatelier {
+    display: none;
+}
+#tableau {
+    display: none;
+    background-color: #f3671f;
+}
+#bottou {
+    font-size: 12px !important
+}
+.md-form{
+    background-color: #f3671f;
+    padding: 10px;
+    border-radius: 10px;
+    width: 500px;
+}
+#footer {
+    height: 80px;
+    line-height: 50%;
+    position: fixed;
+    width: 100%;
+    font-family:Roboto 'Helvetica Neue', sans-serif !important;
+}
+
+h2,p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+}
